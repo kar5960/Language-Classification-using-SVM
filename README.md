@@ -3,7 +3,7 @@ Using machine learning techniques to classify different languages.
 
 Abstract
 
-Language classification is a fundamental task in natural language processing (NLP), with applications ranging from text mining to machine translation. In this report, we explore the use of machine learning techniques, specifically Decision Tree Algorithms, for language classification using Python. We preprocess the data, engineer relevant features, and analyze their correlations to build an effective model. We also employ Principal Component Analysis (PCA) to reduce feature dimensionality and improve model performance. Our results demonstrate the effectiveness of the approach in accurately classifying languages.
+Language classification is a fundamental task in natural language processing (NLP), with applications ranging from text mining to machine translation. In this report, we explore the use of machine learning techniques, specifically SVM Algorithm, for language classification using Python. We preprocess the data, engineer relevant features, and analyze their correlations to build an effective model. We also employ Principal Component Analysis (PCA) to reduce feature dimensionality and improve model performance. Our results demonstrate the effectiveness of the approach in accurately classifying languages.
 
 About Dataset
 
